@@ -1,0 +1,9 @@
+2a 7a 6a 8b 9b 1b 5b 3b 4b
+8d 1a 9a 5a 3c 4c 6b 2b 7b
+7d 3a 8a 4a 2c 5c 9c 1c 6f
+9d 5e 2e 3e 7c 8c 4f 6c 1f
+3d 2d 4d 1e 8e 6e 7f 9f 5f
+1d 4e 7e 9e 6h 3h 8f 5h 2f
+5d 6g 1g 7g 4h 9h 2h 8h 3f
+6d 9g 5g 2g 1h 7h 3i 4i 8i
+4g 8g 3g 6i 5i 2i 1i 7i 9i
