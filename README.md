@@ -9,6 +9,6 @@ In the assignment, we created the following protocols and sub-protocols:
 - Pile-Scramble Shuffle
 - Uniqueness Verification Protocol
 - Color Verification Sub-protocol
-- 3 row-VerificationSub-protocol
+- 3 row-Verification Sub-protocol
 - Color Change Sub-protocol and Block Verification
 - 3 column-Verification Sub-protocol
